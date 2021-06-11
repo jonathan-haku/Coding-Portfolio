@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//THIS IS A CALCULATOR TO SOLVE QUADRATIC FORMULAS
 public class pog {
 
 	public static void main(String[] args) {
